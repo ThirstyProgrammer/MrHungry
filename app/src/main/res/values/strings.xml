@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MrHungry</string>
+    <string name="full_name">Ahmad Harits Bachtiar Awalin</string>
+    <string name="email">ahmad.harits1@gmail.com</string>
+    <string name="share">Share</string>
+    <string name="user">User</string>
+    <string name="food_share_template">%1$s\n\nBerasal dari %2$s\n\n%3$s</string>
+    <string name="profile">Profil</string>
+</resources>
